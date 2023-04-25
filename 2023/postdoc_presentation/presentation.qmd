@@ -7,9 +7,9 @@ format:
         footer: "Finishing your PhD, Starting a Postdoc"
         transition: slide
         slide-number: h.v
-        chalkboard: true
         html-q-tags: true
         incremental: true
+        embed-resources: true
     pptx:
         incremental: true
         slide-level: 2
