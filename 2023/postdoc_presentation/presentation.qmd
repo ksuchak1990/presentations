@@ -1,10 +1,10 @@
 ---
-title: "Applying for Postdoc Roles"
+title: "What to expect when you're expecting... the End of your PhD"
 author: "Keiran Suchak, Petar Hristov"
 format:
     revealjs:
         theme: dark
-        footer: "Applying for Postdoc Roles"
+        footer: "Finishing your PhD, Starting a Postdoc"
         transition: slide
         slide-number: h.v
         chalkboard: true
