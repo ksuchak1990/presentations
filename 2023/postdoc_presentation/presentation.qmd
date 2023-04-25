@@ -68,7 +68,33 @@ Council
 ## Petar Hristov
 
 ::: {.fragment .fade-in-then-semi-out}
-<span style="color:#1E88E5">Date -- Date : Qualification, Institution</span>
+<span style="color:#1E88E5">
+2011 -- 2015 : BSc Computer Science, University of Veliko Tarnovo (Bulgaria)
+</span>
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#FFC107">
+2015 -- 2016 : Co-founder and Web Developer, Phantomloops (Leeds)
+</span>
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#1E88E5">
+2016 -- 2017 : MSc Mathematics and Computer Science, University of Leeds
+</span>
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#1E88E5">
+2017 --  2022 : PhD Topology for Large Scale Data Analysis, University of Leeds
+</span>
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#FFC107">
+2020 : Graduate Research Intern, Lawrence Berkeley National Lab (California, US)
+</span>
 :::
 
 # Experiences
