@@ -1,0 +1,169 @@
+---
+title: "Applying for Postdoc Roles"
+author: "Keiran Suchak, Petar Hristov"
+format:
+    revealjs:
+        theme: dark
+        footer: "Applying for Postdoc Roles"
+        transition: slide
+        slide-number: h.v
+        chalkboard: true
+        html-q-tags: true
+        incremental: true
+    pptx:
+        incremental: true
+        slide-level: 2
+institute: "University of Leeds"
+---
+
+# Introductions
+
+## Keiran Suchak
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#1E88E5">2010 -- 2013 : BSc Physics, Imperial College London</span>
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#1E88E5">2013 -- 2014 : MSc Aerospace Dynamics, Cranfield University</span>
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#FFC107">
+2014 -- 2015 : Aviation Observations Scientist, Met Office
+</span>
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#1E88E5">
+2015 -- 2016 : MSc Mathematics, University of Leeds
+</span>
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#FFC107">
+2016 -- 2017 : Analyst/Developer, Ampere Analysis
+</span>
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#1E88E5">
+2017 -- 2022 : CDT Data Analytics and Society, University of Leeds
+</span>
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#FFC107">
+2020 : Data Science Fellow, Connect Places Catapult + Buckinghamshire County
+Council
+</span>
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#FFC107">
+2022 -- Present : Research Fellow, University of Leeds
+</span>
+:::
+
+## Petar Hristov
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#1E88E5">Date -- Date : Qualification, Institution</span>
+:::
+
+# Experiences
+
+## Coming to the end of the PhD
+
+* Writing up the PhD
+
+* Applying for jobs
+
+* Moving on
+
+## Writing up
+
+![PhD Writing Process](http://www.phdcomics.com/comics/archive/phd072314s.gif "PhD Writing Process")
+
+::: {.notes}
+The lows...
+:::
+
+## Writing up
+
+![PhD Writing Process](http://www.phdcomics.com/comics/archive/phd012903s.gif "PhD Writing Process")
+
+::: {.notes}
+... And the highs
+:::
+
+## Applying for jobs
+
+## Applying for jobs
+
+* <q>I was lucky, I guess</q>
+
+* <q>I just kinda' fell into it...</q>
+
+* <q>I happened to be in the right place the right time</q>
+
+## Moving on
+
+* Finishing the PhD
+
+* Starting a new job
+
+# Tips
+
+## Writing up
+
+* Start writing early
+
+* It doesn't have to be perfect
+
+* It's easier to edit documents than writing from scratch
+
+## Applying for jobs
+
+* What sort of job do I want to do?
+
+* Where do I find them?
+
+* How do I write a good application?
+
+## Applying for jobs -- "Proactive Serendipity"
+
+* Think about what you want from your job
+
+* Talk to supervisors
+
+* Talk to your peers
+
+* Review each other's CVs
+
+* Think about transferable skills
+
+* Be ambitious
+
+* Contact the PI
+
+::: {.notes}
+* Do you want to work with other people?
+* Do you want to work independently?
+* Do you want to work on topics related to your PhD?
+* Do you want to continue to work with your supervisor?
+* Let them know that you are interested in pursuing a postdoc
+:::
+
+
+# Extra materials
+
+
+## Options
+
+```{mermaid}
+flowchart LR
+  A(PhD) --> B(Academia)
+  A --> C(Industry)
+```
+
