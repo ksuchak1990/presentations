@@ -125,8 +125,6 @@ The lows...
 
 ## Applying for jobs
 
-## Applying for jobs
-
 * <q>I was lucky, I guess</q>
 
 * <q>I just kinda' fell into it...</q>
@@ -138,6 +136,8 @@ The lows...
 * Finishing the PhD
 
 * Starting a new job
+
+* What is it like working as a Postdoc?
 
 # Tips
 
@@ -161,15 +161,17 @@ The lows...
 
 * Think about what you want from your job
 
+* Be ambitious
+
 * Talk to supervisors
 
 * Talk to your peers
 
 * Review each other's CVs
 
-* Think about transferable skills
+* Why do you want to do your job?
 
-* Be ambitious
+* Think about transferable skills
 
 * Contact the PI
 
@@ -182,14 +184,11 @@ The lows...
 :::
 
 
-# Extra materials
+## Moving on
 
-
-## Options
-
-```{mermaid}
-flowchart LR
-  A(PhD) --> B(Academia)
-  A --> C(Industry)
-```
+* Try to avoid overlap of writing up and new job
+* Think about how things are changing
+* Find a way to process the of the PhD
+* Consider taking a break
+* Celebrate
 
