@@ -10,6 +10,7 @@ format:
         html-q-tags: true
         incremental: true
         embed-resources: true
+        scrollable: true
     pptx:
         incremental: true
         slide-level: 2
@@ -75,13 +76,13 @@ Council
 
 ::: {.fragment .fade-in-then-semi-out}
 <span style="color:#FFC107">
-2015 -- 2016 : Co-founder and Web Developer, Phantomloops (Leeds)
+2015 -- 2016 : Co-founder + Web Developer, Phantomloops (Leeds)
 </span>
 :::
 
 ::: {.fragment .fade-in-then-semi-out}
 <span style="color:#1E88E5">
-2016 -- 2017 : MSc Mathematics and Computer Science, University of Leeds
+2016 -- 2017 : MSc Mathematics + Computer Science, University of Leeds
 </span>
 :::
 
@@ -96,6 +97,13 @@ Council
 2020 : Graduate Research Intern, Lawrence Berkeley National Lab (California, US)
 </span>
 :::
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#FFC107">
+2022 -- 2023 : Postdoctoral Research Associate, University of Durham
+</span>
+:::
+
 
 # Experiences
 
@@ -149,31 +157,39 @@ The lows...
 
 * It's easier to edit documents than writing from scratch
 
-## Applying for jobs
+## Applying for jobs {auto-animate=true}
 
-* What sort of job do I want to do?
+* What sort of job do you want to do?
 
-* Where do I find them?
+* Where do you find them?
 
-* How do I write a good application?
+* How do you write a good application?
 
-## Applying for jobs -- "Proactive Serendipity"
+## Applying for jobs {auto-animate=true}
 
-* Think about what you want from your job
+::: {.nonincremental}
+* What sort of job do you want to do?
 
-* Be ambitious
+    * Think about what you want from your job
 
-* Talk to supervisors
+    * Think about why you want to do your job
 
-* Talk to your peers
+* Where do you find them?
 
-* Review each other's CVs
+    * Talk to supervisors
 
-* Why do you want to do your job?
+    * Talk to your peers
 
-* Think about transferable skills
+* How do you write a good application?
 
-* Contact the PI
+    * Contact the PI
+
+    * Review each other's CVs
+
+    * Check out the STAR method
+
+    * Think about transferable skills
+:::
 
 ::: {.notes}
 * Do you want to work with other people?
@@ -183,12 +199,15 @@ The lows...
 * Let them know that you are interested in pursuing a postdoc
 :::
 
-
 ## Moving on
 
 * Try to avoid overlap of writing up and new job
+
 * Think about how things are changing
-* Find a way to process the of the PhD
+
+* Find a way to process the end of the PhD
+
 * Consider taking a break
+
 * Celebrate
 
