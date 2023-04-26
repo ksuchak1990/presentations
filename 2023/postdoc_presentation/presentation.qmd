@@ -75,13 +75,13 @@ Council
 
 ::: {.fragment .fade-in-then-semi-out}
 <span style="color:#FFC107">
-2015 -- 2016 : Co-founder and Web Developer, Phantomloops (Leeds)
+2015 -- 2016 : Co-founder + Web Developer, Phantomloops (Leeds)
 </span>
 :::
 
 ::: {.fragment .fade-in-then-semi-out}
 <span style="color:#1E88E5">
-2016 -- 2017 : MSc Mathematics and Computer Science, University of Leeds
+2016 -- 2017 : MSc Mathematics + Computer Science, University of Leeds
 </span>
 :::
 
@@ -96,6 +96,13 @@ Council
 2020 : Graduate Research Intern, Lawrence Berkeley National Lab (California, US)
 </span>
 :::
+
+::: {.fragment .fade-in-then-semi-out}
+<span style="color:#FFC107">
+2022 -- 2023 : Postdoctoral Research Associate, University of Durham
+</span>
+:::
+
 
 # Experiences
 
