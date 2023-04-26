@@ -10,6 +10,7 @@ format:
         html-q-tags: true
         incremental: true
         embed-resources: true
+        scrollable: true
     pptx:
         incremental: true
         slide-level: 2
@@ -158,29 +159,27 @@ The lows...
 
 ## Applying for jobs
 
-* What sort of job do I want to do?
+* What sort of job do you want to do?
 
-* Where do I find them?
+* Where do you find them?
 
-* How do I write a good application?
+* How do you write a good application?
 
 ## Applying for jobs -- "Proactive Serendipity"
 
 * Think about what you want from your job
 
-* Be ambitious
+* Think about why you want to do your job
 
 * Talk to supervisors
 
 * Talk to your peers
 
+* Contact the PI
+
 * Review each other's CVs
 
-* Why do you want to do your job?
-
 * Think about transferable skills
-
-* Contact the PI
 
 ::: {.notes}
 * Do you want to work with other people?
@@ -189,7 +188,6 @@ The lows...
 * Do you want to continue to work with your supervisor?
 * Let them know that you are interested in pursuing a postdoc
 :::
-
 
 ## Moving on
 
