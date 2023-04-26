@@ -157,7 +157,7 @@ The lows...
 
 * It's easier to edit documents than writing from scratch
 
-## Applying for jobs
+## Applying for jobs {auto-animate=true}
 
 * What sort of job do you want to do?
 
@@ -165,21 +165,31 @@ The lows...
 
 * How do you write a good application?
 
-## Applying for jobs -- "Proactive Serendipity"
+## Applying for jobs {auto-animate=true}
 
-* Think about what you want from your job
+::: {.nonincremental}
+* What sort of job do you want to do?
 
-* Think about why you want to do your job
+    * Think about what you want from your job
 
-* Talk to supervisors
+    * Think about why you want to do your job
 
-* Talk to your peers
+* Where do you find them?
 
-* Contact the PI
+    * Talk to supervisors
 
-* Review each other's CVs
+    * Talk to your peers
 
-* Think about transferable skills
+* How do you write a good application?
+
+    * Contact the PI
+
+    * Review each other's CVs
+
+    * Check out the STAR method
+
+    * Think about transferable skills
+:::
 
 ::: {.notes}
 * Do you want to work with other people?
