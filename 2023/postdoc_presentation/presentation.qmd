@@ -88,7 +88,7 @@ Council
 
 ::: {.fragment .fade-in-then-semi-out}
 <span style="color:#1E88E5">
-2017 --  2022 : PhD Topology for Large Scale Data Analysis, University of Leeds
+2017 -- 2022 : PhD Topology for Large Scale Data Analysis, University of Leeds
 </span>
 :::
 
@@ -100,7 +100,7 @@ Council
 
 ::: {.fragment .fade-in-then-semi-out}
 <span style="color:#FFC107">
-2022 -- 2023 : Postdoctoral Research Associate, University of Durham
+2022 -- Present : Postdoctoral Research Associate, University of Durham
 </span>
 :::
 
