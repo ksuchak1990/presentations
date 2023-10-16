@@ -4,6 +4,7 @@ format:
         footer: "Sustainable and equitable cities and regions for a net zero world"
         logo: leeds.jpg
         theme: dark
+        embed-resources: true
 ---
 
 ## Real-Time Pedestrian Simulation {background-color="black"
