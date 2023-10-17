@@ -46,26 +46,3 @@ background-image="./city.jpg" background-repeat="repeat" background-opacity=0.25
 <iframe width="1200" height="1000" src="./enkf_animation.html" title="Ensemble Kalman Filter"></iframe>
 ```
 
-## Dump
-
-::: {.columns}
-
-::: {.column width="60%"}
-* Real-time pedestrian simulation:
-```{mermaid}
-flowchart LR
-    A(Agent-Based Model) --> D
-    B(Steaming Data) --> D(Real-Time Pedestrian Simulation)
-```
-:::
-
-::: {.column width="40%"}
-* Data Assimilation:
-```{mermaid}
-flowchart TD
-    A(Prior) -->|Update| B(Posterior)
-    B -->|Predict| A
-```
-:::
-:::
-
