@@ -1,0 +1,18 @@
+
+/* # Requirements */
+
+/* * 10 minute presentation */
+/* * your research expertise and previous outputs */
+/* * your potential contributions to the role, including specifically how your experience fits with either or both of the two available positions. */
+
+/* # Spare slides */
+
+/* ## Data Science Fellowship @ Connected Places Catapult (Data Science Fellow) {background-image="dsf_cpc.png" background-opacity="0.25" .smaller} */
+
+/* <q>Mapping and modelling social isolation in Buckinghamshire</q> */
+
+/* ## Masters Dissertation @ School of Mathematics (MSc Student) {background-image="https://upload.wikimedia.org/wikipedia/commons/a/a7/Graph_bipart.png" background-opacity="0.25" .smaller} */
+
+/* <q>Exploiting network symmetries to reduce the state space of dynamic processes on networks</q> */
+
+
