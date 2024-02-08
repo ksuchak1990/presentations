@@ -7,6 +7,7 @@ format:
     revealjs:
         incremental: true
         navigation-mode: vertical
+        footer: "Mobility Science Lab"
         transition: slide
         chalkboard: true
         auto-stretch: true
@@ -147,12 +148,6 @@ flowchart LR
 </iframe>
 ```
 
-## Other projects
-
-* Data Science Fellowship @ Connected Places Catapult (Data Science Fellow) - <q>Mapping and modelling social isolation in Buckinghamshire</q>
-* Masters Dissertation @ School of Mathematics (MSc Student) - <q>Exploiting network symmetries to reduce the state space of dynamic processes on networks</q>
-
-
 # Current research
 
 ```{mermaid}
@@ -166,5 +161,4 @@ flowchart LR
     A --> D(Agent-Based Modelling)
     end
 ```
-
 
