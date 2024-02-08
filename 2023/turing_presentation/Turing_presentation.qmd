@@ -1,0 +1,48 @@
+---
+format: 
+    revealjs:
+        footer: "Sustainable and equitable cities and regions for a net zero world"
+        logo: leeds.jpg
+        theme: dark
+        embed-resources: true
+---
+
+## Real-Time Pedestrian Simulation {background-color="black"
+background-image="./city.jpg" background-repeat="repeat" background-opacity=0.25}
+
+#### Keiran Suchak
+
+* Real-time pedestrian simulation:
+```{mermaid}
+flowchart LR
+    A(Agent-Based Model) --> D
+    B(Steaming Data) --> D(Real-Time Pedestrian Simulation)
+```
+
+::: {.columns}
+
+::: {.column width="50%"}
+* Data Assimilation:
+```{mermaid}
+flowchart TD
+    A(Prior) -->|Update| B(Posterior)
+    B -->|Predict| A
+```
+:::
+
+::: {.column width="50%"}
+* Ensemble Kalman Filter:
+
+$$\hat{X} = X + K (D - HX)$$
+:::
+
+:::
+
+## Ensemble Kalman Filter in Action {background-color="black"
+background-image="./city.jpg" background-repeat="repeat" background-opacity=0.25}
+
+
+```{=html}
+<iframe width="1200" height="1000" src="./enkf_animation.html" title="Ensemble Kalman Filter"></iframe>
+```
+

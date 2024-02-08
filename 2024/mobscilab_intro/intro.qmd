@@ -1,0 +1,164 @@
+---
+title: "Introduction to Research"
+author: "Keiran Suchak"
+date: 08 02 2024
+date-format: DD/MM/YYYY
+format: 
+    revealjs:
+        incremental: true
+        navigation-mode: vertical
+        footer: "Mobility Science Lab"
+        transition: slide
+        chalkboard: true
+        auto-stretch: true
+        mermaid:
+            theme: neutral
+slide-number: true
+html-q-tags: true
+revealjs-plugins:
+    - pointer
+---
+
+# Research expertise and previous outputs
+
+## Research expertise
+
+<ul>
+    <li><span style="color:#000000;">Agent-based modelling</span></li>
+    <li><span style="color:#1e1e1e;">Network modelling</span></li>
+    <li><span style="color:#3c3c3c;">Geospatial modelling</span></li>
+    <li><span style="color:#5a5a5a;">System dynamics</span></li>
+    <li><span style="color:#787878">Spatial microsimulation</span></span></li>
+</ul>
+
+## Outputs from projects
+
+* DUST (University of Leeds)
+* KARMA (University of Leeds)
+* Other projects
+
+## DUST @ School of Geography (PhD Student + Research Fellow) {background-image="https://urban-analytics.github.io/dust/figures/shutterstock_788458099-small.jpg" background-opacity="0.25" .smaller .scrollable}
+
+> Developing methods for real-time pedestrian simulation
+
+::: {.nonincremental}
+* Real-time pedestrian simulation:
+```{mermaid}
+flowchart LR
+    A(Agent-Based Model) --> D
+    B(Steaming Data) --> D(Real-Time Pedestrian Simulation)
+```
+
+::: {.columns}
+
+::: {.column width="50%"}
+* Data Assimilation:
+```{mermaid}
+flowchart TD
+    A(Prior) -->|Update| B(Posterior)
+    B -->|Predict| A
+```
+:::
+
+::: {.column width="50%"}
+* Ensemble Kalman Filter:
+
+$$\hat{X} = X + K (D - HX)$$
+:::
+
+:::
+:::
+
+
+## DUST @ School of Geography (PhD Student + Research Fellow) {background-image="https://urban-analytics.github.io/dust/figures/shutterstock_788458099-small.jpg" background-opacity="0.25" .smaller .scrollable}
+
+> Developing methods for real-time pedestrian simulation
+
+```{=html}
+<iframe src="./animations/enkf.html" width="100%" height="100%">
+</iframe>
+```
+
+## DUST @ School of Geography (PhD Student + Research Fellow) {background-image="https://urban-analytics.github.io/dust/figures/shutterstock_788458099-small.jpg" background-opacity="0.25" .smaller}
+
+> Developing methods for real-time pedestrian simulation
+
+* Papers:
+    * **Suchak, K.** ; Ward, J.; Malleson, N. (2024) Real-time estimation of categorical attributes of pedestrian agents using the Ensemble Kalman Filter. _In Preparation_.
+    * Oswald, Y.; **Suchak, K.** ; Malleson, N. (2024) Agent-based models of the United States wealth distribution with Ensemble Kalman Filter. _In Preparation_.
+    * **Suchak, K.** ; Kieu, M.; Oswald, Y.; Ward, J.; Malleson, N. (2024) An Ensemble Kalman Filter-based approach to simulating pedestrian systems in real-time at Grand Central Terminal. _Accepted_.
+
+## KARMA @ Institute for Transport Studies (Research Fellow) {background-image="https://www.turing.ac.uk/sites/default/files/styles/hero/public/2019-05/transport_policies.jpg?itok=QFcds_Ib" background-opacity="0.25" .smaller .scollable}
+
+> Using new types of digital data to support more sustainable travel choices, reducing health, energy, security and other impacts to improve urban lifestyles
+
+```{mermaid}
+flowchart LR
+    subgraph s0 ["i=0"]
+        A(Spatial microsimulation)
+    end
+    subgraph s1 ["i=1"]
+        direction TB
+        B(Agent-based model)
+        C(System dynamics)
+        B -->|ABM outputs| C
+    end
+    subgraph s2 ["i=2"]
+        direction TB
+        D(Agent-based model)
+        E(System dynamics)
+        D -->|ABM outputs| E
+    end
+    subgraph sN ["i=N"]
+        F(Agent-based model)
+        G(System dynamics)
+        F -->|ABM outputs| G
+    end
+
+    s0 -->|Synthetic population| s1
+    s1 -->|SD outputs| s2
+    s2 -->|...| sN
+```
+
+## KARMA @ Institute for Transport Studies (Research Fellow) {background-image="https://www.turing.ac.uk/sites/default/files/styles/hero/public/2019-05/transport_policies.jpg?itok=QFcds_Ib" background-opacity="0.25" .smaller .scollable}
+
+> Using new types of digital data to support more sustainable travel choices, reducing health, energy, security and other impacts to improve urban lifestyles
+
+```{=html}
+<video width="100%" height="80%" controls>
+  <source src="./animations/model_run.mp4" type="video/mp4">
+</video>
+
+```
+
+## KARMA @ Institute for Transport Studies (Research Fellow) {background-image="https://www.turing.ac.uk/sites/default/files/styles/hero/public/2019-05/transport_policies.jpg?itok=QFcds_Ib" background-opacity="0.25" .smaller}
+
+> Using new types of digital data to support more sustainable travel choices, reducing health, energy, security and other impacts to improve urban lifestyles
+
+* Papers:
+    * **Suchak, K.** ; Harrison, G.; Yang, Y.; Grant-Muller, S.; Hodgson, F. (2023) A hybrid simulation approach to modelling transport-related health: the integration of Agent-Based Modelling and System Dynamics. _In Preparation_.
+    * Harrison, G.; Yang, Y.; **Suchak, K.**; Grant-Muller, S.; Hodgson, F. (2023) Influencing transport-related health through policy using input from new data and models. _In Review_.
+
+## Sustrans Data Study Group @ Alan Turing Institute (Principal Investigator) {background-image="https://www.turing.ac.uk/sites/default/files/styles/hero/public/2023-11/sustrans.jpg?itok=0sSriplx" background-opacity="0.25" .smaller}
+
+> Towards equitable walking and cycling infrastructure for all
+
+```{=html}
+<iframe src="./animations/leeds_routes.html" width="100%" height="100%">
+</iframe>
+```
+
+# Current research
+
+```{mermaid}
+%%| label: fig-branches
+%%| fig-cap: "Branches of work"
+flowchart LR
+    subgraph Indoor mobility at UCLH
+    direction LR
+    A(Datasets) --> B(Identifying co-location points)
+    A --> C(Generating synthetic trajectories)
+    A --> D(Agent-Based Modelling)
+    end
+```
+
