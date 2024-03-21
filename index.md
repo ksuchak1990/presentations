@@ -7,4 +7,4 @@
 
 ## 2024
 
-* [Intro to Quarto](./2024/intro_to_quarto/presentation.html).
+* [Intro to Quarto](./2024/quarto_intro/presentation.html).
