@@ -8,6 +8,7 @@ format:
     revealjs:
         transition: slide
         slide-number: h.v
+        embed-resources: true
         # verticator:
         #     autogenerate: true
         #     themetag: "h1"
