@@ -1,0 +1,95 @@
+---
+title: "Introduction to Quarto"
+author: "Keiran Suchak"
+institute: "University of Leeds"
+date: 2024/03/21
+date-format: iso
+format:
+    revealjs:
+        transition: slide
+        slide-number: h.v
+        verticator:
+            autogenerate: true
+            themetag: "h1"
+    html:
+        toc: true
+    pdf:
+        toc: true
+
+revealjs-plugins:
+    - verticator
+---
+
+# Do you...
+
+* ... use `python` or `R` to produce your figures?
+* ... write technical reports / journal articles?
+* ... present your results at conferences?
+* ... want to develop your personal website?
+* ... **not want to have to learn LaTeX and HTML?**
+
+## Consider using Quarto
+
+* Documents:
+  [HTML](https://quarto-dev.github.io/quarto-gallery/page-layout/tufte.html), [PDF](https://github.com/nmfs-opensci/quarto_titlepages/blob/main/example_1.pdf), [MS Word](https://quarto-dev.github.io/quarto-gallery/articles/msword/msword.docx)
+* Presentations:
+  [RevealJS](https://quarto.org/docs/presentations/revealjs/demo/#/title-slide), [MS PowerPoint](https://quarto-dev.github.io/quarto-gallery/presentations/powerpoint/powerpoint.pptx), [Beamer](https://quarto-dev.github.io/quarto-gallery/presentations/beamer/beamer.pdf)
+* [Websites](https://2024.gisruk.org/)
+
+* Journal templates: [PLOS](https://quarto-journals.github.io/plos/),
+  [more...](https://quarto.org/docs/extensions/listing-journals.html)
+
+# What is Quarto?
+
+## What is Quarto?
+
+```{=html}
+<iframe
+  src="https://quarto.org/"
+  style="width:100%; height:80%;"
+></iframe>
+```
+
+# Outline
+
+* How to get started with Quarto
+* Using Quarto to...
+    * ... produce documents
+    * ... produce presentations
+    * ... produce websites
+
+# How to get started
+
+> <https://quarto.org/docs/get-started/>
+
+## How to get started
+
+```{=html}
+<iframe
+  src="https://quarto.org/docs/get-started/"
+  style="width:100%; height:80%;"
+></iframe>
+```
+
+# Using Quarto
+
+## Documents
+
+## Presentations
+
+```{=html}
+<iframe
+  src="https://quarto.org/docs/presentations/"
+  style="width:100%; height:80%;"
+></iframe>
+```
+
+## Websites
+
+```{=html}
+<iframe
+  src="https://quarto.org/docs/websites/"
+  style="width:100%; height:80%;"
+></iframe>
+```
+
