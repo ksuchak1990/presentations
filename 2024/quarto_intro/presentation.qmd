@@ -8,16 +8,16 @@ format:
     revealjs:
         transition: slide
         slide-number: h.v
-        verticator:
-            autogenerate: true
-            themetag: "h1"
+        # verticator:
+        #     autogenerate: true
+        #     themetag: "h1"
     html:
         toc: true
     pdf:
         toc: true
 
-revealjs-plugins:
-    - verticator
+# revealjs-plugins:
+#     - verticator
 ---
 
 # Do you...
